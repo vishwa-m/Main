@@ -1,3 +1,6 @@
 [submodule "SM1_Dir/Module1"]
 	path = SM1_Dir/Module1
 	url = https://github.com/vishwa-m/SubModule1.git
+[submodule "SM2_Dir/Module1"]
+	path = SM2_Dir/Module1
+	url = https://github.com/vishwa-m/SubModule2.git
